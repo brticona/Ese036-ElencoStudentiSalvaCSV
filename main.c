@@ -43,10 +43,7 @@ int main(int argc, char** argv) {
             printf("\n");
         }
         
-        fclose(outfile);
-    
-    
-        
-    
+    fclose(outfile);
+ 
     return (EXIT_SUCCESS);
 }
